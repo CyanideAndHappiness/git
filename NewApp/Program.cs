@@ -11,7 +11,7 @@ namespace NewApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello. This is my first program on GitHub");
-            Console.WriteLine("Модификация файла программы");
+            Console.WriteLine("Модификация файла проsграммы");
             Console.ReadLine();
         }
     }
